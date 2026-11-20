@@ -195,7 +195,7 @@ p { margin: 0; }
 .hero-photo { display: grid; grid-template-rows: minmax(0, 1.25fr) minmax(0, 1fr); gap: 12px; min-height: 380px; }
 .hero-photo figure { position: relative; margin: 0; border-radius: var(--radius); overflow: hidden; min-height: 0; }
 .hero-photo img { width: 100%; height: 100%; object-fit: cover; }
-.hp-main img { object-position: 40% 22%; }
+.hp-main img { object-position: 50% 30%; }
 .hp-truck img { object-position: 50% 40%; }
 .hp-truck::after { content: ""; position: absolute; inset: 0; background: linear-gradient(to top, rgba(11,10,16,.88), rgba(11,10,16,0) 55%); pointer-events: none; }
 .hp-truck figcaption {
