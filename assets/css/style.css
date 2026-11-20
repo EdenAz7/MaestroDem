@@ -357,6 +357,8 @@ legend { font-family: var(--serif); font-style: italic; font-weight: 700; font-s
 .site-footer .brand { color: var(--cream); }
 .site-footer .brand-name em { color: var(--gold); }
 .site-footer .brand-sub { color: rgba(246,240,226,.55); }
+.footer-emblem { display: block; width: min(300px, 100%); }
+.footer-emblem img { width: 100%; height: auto; }
 .site-footer h3 { font-size: 17px; color: var(--gold); margin-bottom: 10px; font-style: italic; }
 .site-footer a { color: var(--cream); text-decoration: none; }
 .site-footer a:hover { text-decoration: underline; }
